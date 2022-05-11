@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class multiplication_method {
+public class Multiplication_method {
 
 	public static int[] calculate(int times) {
 		int[] result = new int[9];

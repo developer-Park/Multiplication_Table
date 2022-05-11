@@ -1,5 +1,5 @@
 
-public class multiplication_arrary {
+public class Multiplication_arrary {
 
 	public static void main(String[] args) {
 		int[] result = new int[9];

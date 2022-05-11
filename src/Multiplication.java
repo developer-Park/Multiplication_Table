@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class multiplication {
+public class Multiplication {
 
 	
 	public static void main (String[] args) {
